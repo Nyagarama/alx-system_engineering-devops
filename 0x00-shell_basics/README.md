@@ -1,1 +1,1 @@
-How to navigate in the Shell
+Basic Shell navigation concepts
