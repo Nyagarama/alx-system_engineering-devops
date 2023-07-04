@@ -1,2 +1,2 @@
-#!/bin/bash /* shebang */
+#!/bin/bash
 paste - - | cut -f1
