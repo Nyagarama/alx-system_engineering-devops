@@ -1,2 +1,2 @@
 #!/bin/bash
-touch school.mgc ls -a
+echo 0: string SCHOOL >> school.mgc
